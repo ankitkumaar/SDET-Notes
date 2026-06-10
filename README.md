@@ -1,2 +1,2 @@
 # SDET-Notes
-contains Notes for Software Development Engineer in Test
+contains notes for Software Development Engineer in Test
